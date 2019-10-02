@@ -18,14 +18,7 @@ function removeFromPlaylist( playlist ,artist) {
   
 }
 
-//var key = "Cow";
-//delete thisIsObject[key]; 
 
-// Example 2
-//delete thisIsObject["Cow"];
-
-// Example 3
-//delete thisIsObject.Cow;
 
 
 
