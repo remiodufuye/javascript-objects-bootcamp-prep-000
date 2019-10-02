@@ -1,5 +1,5 @@
 
 var meals = { 
-  Beyonce: "oatmeal" ,
+  Beyonce: "Baby Boy" ,
   breakfast: "oatmeal" 
 };
