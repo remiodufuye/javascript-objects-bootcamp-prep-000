@@ -1,5 +1,6 @@
 
 var playList = { 
   Beyonce: "Baby Boy" ,
-  breakfast: "oatmeal" 
-};
+  Jayz: "Encore" ,
+  Kanye : "Jesus Walks"
+}; 
