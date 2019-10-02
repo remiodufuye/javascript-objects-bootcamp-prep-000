@@ -4,3 +4,7 @@ var playlist  = {
   Jayz: "Encore" ,
   Kanye : "Jesus Walks"
 }; 
+
+function updatePlaylist() {
+  
+}
