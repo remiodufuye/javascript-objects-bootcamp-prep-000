@@ -5,6 +5,6 @@ var playlist  = {
   Kanye : "Jesus Walks"
 }; 
 
-function updatePlaylist() {
+function updatePlaylist(playlist, artist , title) {
   
 }
