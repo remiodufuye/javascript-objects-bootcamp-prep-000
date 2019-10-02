@@ -12,6 +12,14 @@ function updatePlaylist(playlist, artist , title) {
 }
 
 function removeFromPlaylist(playlist , artist) {
+  
+  var playlist  = { 
+  Beyonce: "Baby Boy" ,
+  Jayz: "Encore" ,
+  Kanye : "Jesus Walks"
+}; 
+
+
   delete playlist.artist ;
   return playlist ; 
   
